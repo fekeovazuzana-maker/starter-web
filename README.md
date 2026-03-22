@@ -9,4 +9,6 @@ Sample website with plenty of files for demos
 ## DEPLOYMENT
 
 bla bla
-test 
+test
+
+COPYRIGHT 
