@@ -16,5 +16,5 @@ test
 
 COPYRIGHT
 
-
+ll right reserved
 repository new test` 
